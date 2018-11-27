@@ -1,0 +1,5 @@
+client/socketio-ar/node_modules
+server/node_modules
+server/dist
+server/package-lock.json
+client/socketio-ar/package-lock.json
