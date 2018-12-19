@@ -4,6 +4,7 @@
     "src/model/*.ts"
   ],
   "compilerOptions": {
+    "experimentalDecorators": true,
     "target": "es5"
   }
 }
